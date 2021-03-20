@@ -1,5 +1,5 @@
 {
-    "name": "Pyatka-Ubiyca/php-cloudflare-geolocation",
+    "name": "nathandentzau/php-cloudflare-geolocation",
     "description": "A library that assists in retrieving the continent and country information from Cloudflare's headers.",
     "type": "library",
     "license": "MIT",
